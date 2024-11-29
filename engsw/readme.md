@@ -179,4 +179,4 @@ public class ConcessionarioTest {
 
 ```
 
-[Link para o diretório do telebot no GitHub](https://github.com/joaopaulista/Bertoti/tree/main/out/production/Bertoti/telebot)
+[Link para o diretório do telebot no GitHub](https://github.com/TiagoTReis/bertoti/tree/main/telebot)
